@@ -1,2 +1,1 @@
-# ex-mi.github.io
-[ WWW ]
+<script>location='https://github.com/re-alter';</script>
